@@ -1,0 +1,11 @@
+.navBar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: greenyellow;
+    width: 93.7vw;
+    height: 75px;
+    padding: 0px 32px;
+    /* border: 3px solid red; */
+}

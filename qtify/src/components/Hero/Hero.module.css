@@ -1,0 +1,30 @@
+.HeroContainer {
+    height: 270px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    /* width: 100vh; */
+  }
+  .HeroText {
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  line-height: 40px;
+  font-weight: 600;
+  color: aliceblue;
+  margin: 10px;
+  }
+
+  .HeroText > h1 {
+    height: 40px;
+    margin: 10px;
+    font-size: 32px;
+    font-style: italic;
+  }
+
+  .HeroImage {
+    height: 212px;
+    width: 212px;
+  }
